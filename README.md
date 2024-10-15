@@ -6,9 +6,4 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<!---
-Jack2722/Jack2722 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-https://ph![Screenshot_20240917-052348](https://github.com/user-attachments/assets/35764466-296c-456f-9361-85dbeffb9fab)
-otos.app.goo.gl/McuHuoHZJj7bbKwn7
+
